@@ -12,9 +12,9 @@ In my free time, I immerse myself in classical music, research cutting-edge tech
 <details>
 <summary><strong>Click to expand</strong></summary>
 
-- **Frontend Development**: React, Vue  
-- **Desktop Development**: Electron, Tauri  
-- **Cross-Platform Development**: Flutter, React Native  
+- **Frontend Development**: React, Vue, Svelte
+- **Desktop Development**: Electron  
+- **Cross-Platform Development**: Uniapp, React Native  
 - **Backend Development**: Go, Node.js  
 
 </details>
